@@ -7,6 +7,11 @@
 {
     display: none;
 }  
+    .grid-container
+{
+    display: none;
+}
+
     .menu_for_desktop {
       display: none;
     }
