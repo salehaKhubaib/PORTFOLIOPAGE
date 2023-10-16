@@ -182,6 +182,8 @@
         padding: 9px;
         color: #273bf5;
         border-radius: 0.6rem;
+         margin-left: 35px;
+        margin-right: -32px; 
     }
     .work_button {
         margin-left: 35px;
