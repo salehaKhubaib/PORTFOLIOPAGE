@@ -192,5 +192,111 @@
         border-radius: 0.6rem;
         color: #152bf5;
     }
+    .end_container_Desktop {
+        display: none;
+    }
+    .ABOUT_MY_INTRO_sECTION {
+        margin-top: 50px;
+        width: 21.7rem;
+        height: 52.7rem;
+        background-color: white;
+        display: inline-flex;
+        flex-direction: column;
+        padding: 7.125rem 1.5rem;
+        background-image: url('img\base.svg');
+    }
+    .SECTION_PARAGRAPH {
+        position: relative;
+        width: 327px;
+        top: 0;
+        left: 0;
+        font-family: "Poppins-Regular", Helvetica;
+        font-weight: 400;
+        color: #344563;
+        font-size: 16px;
+        letter-spacing: 0;
+        line-height: 24px;
+        margin-bottom: 20px;
+    }
+    .ABOUT_MY_INTRO_sECTION h1 {
+        font-size: 2.5rem;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 3.25rem;
+        width: 20.4375rem;
+        height: 2.1875rem;
+        color: #172b4d;
+        position: relative;
+        margin-bottom: 50px;
+        margin-top: -20px;
+    }
+    #CONECT_BUTTON {
+        position: relative;
+        top: 0;
+        left: 0;
+        font-family: "Poppins-Medium", Helvetica;
+        font-weight: 500;
+        color: #7f8cff;
+        font-size: 16px;
+        letter-spacing: 0;
+        line-height: 24px;
+        white-space: nowrap;
+        width: fit-content;
+        background-color: white;
+        border-color:transparent;
+        margin-bottom: 10px;
+
+    }
+
+    #MAIN_HEADING {
+        position: relative;
+        width: 327px;
+        height: 35px;
+        top: 0;
+        left: 0;
+        font-family: "Poppins-Bold", Helvetica;
+        font-weight: 700;
+        color: #172b4d;
+        font-size: 40px;
+        letter-spacing: 0;
+        line-height: 52px;
+        white-space: nowrap;
+    }
+    .ABOUT_MY_INTRO_sECTION p {
+        width: 20.4375rem;
+        height: 9.1875rem;
+        color: #344563;
+    }
+    .CV_BUTTON {
+        margin-left: px;
+        width: fit-content;
+        margin-top: 20px;
+        padding: 10px 20px;
+        border: solid #616fe7 1px;
+        border-radius: 0.6rem;
+        color: #152bf5;
+    }
+    .LAST_BOX_ABOUTMY {
+        color: #000;
+        font-size: 1.25rem;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 1.5rem;
+        margin-top: 40px;
+    }
+    .LAST_BOX_ABOUTMY span h1 {
+        font-size: 1.5rem;
+    }
+.languages
+{
+    display: flex;
+    margin-left: -35px;
+}
+    hr {
+        margin-top: 10px;
+    }
+    .skill_box {
+        margin-top: 20px;
+    }
 
     }
