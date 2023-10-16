@@ -11,6 +11,8 @@ Navigation Bar
 Sections
 Specific Buttons
 Contact Form page
+# Collaborator:
+Mutahar456
 
 # LANGUAGES
 The languages used in this project are HTML and CSS.
