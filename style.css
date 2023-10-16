@@ -11,7 +11,10 @@
 {
     display: none;
 }
-
+.GRID_Right1
+{
+    display: none;
+}
     .menu_for_desktop {
       display: none;
     }
